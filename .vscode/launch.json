@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Stream1.Main",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
             "name": "stream",
             "request": "launch",
             "mainClass": "streamapilearn.stream",
