@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Day1.Main",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
             "name": "Main1",
             "request": "launch",
             "mainClass": "Stream2.Main1",
