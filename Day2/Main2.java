@@ -1,5 +1,5 @@
 package Day2;
- import java.util.*;
+import java.util.*;
 public class Main2 {
     public static void main(String[] args) {
         List<String>list=Arrays.asList("Java", "Python", "C" );
