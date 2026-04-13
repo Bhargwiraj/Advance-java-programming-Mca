@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main7",
+            "request": "launch",
+            "mainClass": "Day7.Main7",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
             "name": "Main5",
             "request": "launch",
             "mainClass": "Day5.Main5",
