@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main22",
+            "request": "launch",
+            "mainClass": "Day22.Main22",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main21",
+            "request": "launch",
+            "mainClass": "Day21.Main21",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main20",
+            "request": "launch",
+            "mainClass": "Day20.Main20",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main19",
+            "request": "launch",
+            "mainClass": "Day19.Main19",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main18",
+            "request": "launch",
+            "mainClass": "Day18.Main18",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main17",
+            "request": "launch",
+            "mainClass": "Day17.Main17",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main16",
+            "request": "launch",
+            "mainClass": "Day16.Main16",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main15",
+            "request": "launch",
+            "mainClass": "Day15.Main15",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main14",
+            "request": "launch",
+            "mainClass": "Day14.Main14",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main13",
+            "request": "launch",
+            "mainClass": "Day13.Main13",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main12",
+            "request": "launch",
+            "mainClass": "Day12.Main12",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main11",
+            "request": "launch",
+            "mainClass": "Day11.Main11",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main10",
+            "request": "launch",
+            "mainClass": "Day10.Main10",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main9",
+            "request": "launch",
+            "mainClass": "Day9.Main9",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
+            "name": "Main8",
+            "request": "launch",
+            "mainClass": "Day8.Main8",
+            "projectName": "AdvanceJava_60ca34ff"
+        },
+        {
+            "type": "java",
             "name": "Main7",
             "request": "launch",
             "mainClass": "Day7.Main7",
